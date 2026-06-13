@@ -1,0 +1,8 @@
+sanic
+sqlalchemy
+asyncpg
+psycopg2-binary
+alembic
+PyJWT
+bcrypt
+python-dotenv
