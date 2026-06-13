@@ -21,3 +21,10 @@ cd async_payments_api
 docker-compose up -d
 pip install -r requirements.txt
 python -m app.main
+
+
+## Автор
+
+Шамиль Шамилов  
+Telegram: @Musashi47  
+GitHub: [shamilovshamil793-wq](https://github.com/shamilovshamil793-wq)
